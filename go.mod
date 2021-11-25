@@ -1,4 +1,4 @@
-module github.com/dusk-network/dusk-crypto
+module github.com/YellowBrainz/dusk-crypto
 
 go 1.12
 
